@@ -17,6 +17,9 @@ localhost:4000/weather?kota={nama_kota}
 localhost:4000/weather?provinsi={nama_provinsi}
 ```
 
+<br/>
+Inspired by: [@dennbagas](https://github.com/dennbagas/bmkg-weather-api) 
+
 <!-- 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
