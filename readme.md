@@ -8,10 +8,10 @@ easy to use just go to your directory, then
 - get all data :
 localhost:4000/weather
 
--get data by provinsi:
+- get data by provinsi:
 localhost:4000/weather?kota={nama_kota}
 
--get data by kota
+- get data by kota
 localhost:4000/weather?provinsi={nama_provinsi}
 ```
 
