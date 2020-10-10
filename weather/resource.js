@@ -33,6 +33,10 @@ module.exports.get = async() => {
         }else{
             const file = 'cache/weather.json';
             const data = JSON.stringify(dataArray);
+
+            if (!fs.existsSync(file)) {
+                fs.mkdirSync('./cache');
+            }
             
             fs.writeFile(file, data, 'utf-8', (e => {
                 if(e){
