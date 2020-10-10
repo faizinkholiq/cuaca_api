@@ -18,7 +18,7 @@ localhost:4000/weather?provinsi={nama_provinsi}
 ```
 
 <br/>
-Inspired by [Configuration Reference](https://github.com/dennbagas/bmkg-weather-api)
+[Configuration Reference](https://github.com/dennbagas/bmkg-weather-api)
 
 ### Customize configuration
 See .
