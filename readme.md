@@ -19,4 +19,4 @@ localhost:4000/weather?provinsi={nama_provinsi}
 
 <br/>
 
-[@dennbagas](https://github.com/dennbagas/bmkg-weather-api)
+#### Inspired by & thanks to [@dennbagas](https://github.com/dennbagas/bmkg-weather-api)
