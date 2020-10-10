@@ -18,7 +18,4 @@ localhost:4000/weather?provinsi={nama_provinsi}
 ```
 
 <br/>
-[Configuration Reference](https://github.com/dennbagas/bmkg-weather-api)
-
-### Customize configuration
-See .
+[Configuration Reference](https://nodejs.org/en/)
