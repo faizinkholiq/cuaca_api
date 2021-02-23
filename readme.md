@@ -1,4 +1,4 @@
-# CUACA REST API 
+# CUACA REST API ☁️
 
 Rest API to get weather data based on [BMKG data](https://data.bmkg.go.id/prakiraan-cuaca/)
 
